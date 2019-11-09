@@ -65,6 +65,4 @@ public
 
 # secrets
 .contentful.json
-.env*
-!.env.example
 .env.development
